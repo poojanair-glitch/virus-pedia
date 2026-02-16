@@ -1,0 +1,4 @@
+malicious url "https://www.eicar.org/download/eicar.com"
+"https://secure.eicar.org/eicar.com"
+
+url failed "http://localhost:8000/test-eicar"
