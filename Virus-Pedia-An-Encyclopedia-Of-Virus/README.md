@@ -1,7 +1,8 @@
 
   # Cybersecurity Virus Intelligence Dashboard
 
-  This is a code bundle for Cybersecurity Virus Intelligence Dashboard. The original project is available at https://www.figma.com/design/sOr4o97K5c1fQaHdOKNvST/Cybersecurity-Virus-Intelligence-Dashboard.
+  This is a code bundle for Cybersecurity Virus Intelligence Dashboard. The original project is available at 
+  https://virus-pedia-dashboard.netlify.app/
 
   ## Running the code
 
